@@ -1,4 +1,4 @@
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230210T114424Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a66faa1b8f8ba405971177d45994b28051fed94fbaf5423852db1d9a03ed451d)
+#![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230210T114424Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a66faa1b8f8ba405971177d45994b28051fed94fbaf5423852db1d9a03ed451d)
 
 
 ## Background Context
