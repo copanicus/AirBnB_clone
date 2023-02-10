@@ -1,22 +1,14 @@
-Background Context
+![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230210T114424Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a66faa1b8f8ba405971177d45994b28051fed94fbaf5423852db1d9a03ed451d)
 
-Welcome to the AirBnB clone project!
+
+## Background Context
+
+# Welcome to the AirBnB clone project!
 
 Before starting, please read the AirBnB concept page.
+https://youtu.be/XRH_8w1DEGI
 
-
-
-
-
-
-
-
-
-
-
-
-
-First step: Write a command interpreter to manage your AirBnB objects.
+# First step: Write a command interpreter to manage your AirBnB objects.
 
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
 
@@ -36,7 +28,7 @@ create the first abstracted storage engine of the project: File storage.
 
 create all unittests to validate all our classes and storage engine
 
-What’s a command interpreter?
+# What’s a command interpreter?
 
 Do you remember the Shell? It’s exactly the same but limited to a specific use-case. In our case, we want to be able to manage the objects of our project:
 
@@ -52,7 +44,7 @@ Update attributes of an object
 
 Destroy an object
 
-Resources
+## Resources
 
 Read or watch:
 
@@ -84,7 +76,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 
 
-General
+## General
 
 How to create a Python package
 
@@ -116,7 +108,7 @@ You are not allowed to publish any content of this project.
 
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-Requirements
+## Requirements
 
 Python Scripts
 
@@ -256,14 +248,7 @@ $
 
 All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
 
+![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230210T114424Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1fdd9d9d6fbf8a47f4d2e03e9d24ff84087dbed0b10403c6c14b6e04fa4901af)
 
 
-
-
-
-
-
-
-
-
-
+https://youtu.be/1mAC9x3aixE
